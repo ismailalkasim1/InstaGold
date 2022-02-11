@@ -1,0 +1,32 @@
+﻿[•• WARNING ••]
+
+IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM "AeroInsta Settings > Service > Disable updates".
+
+
+××××××××
+AeroInsta V18.0.4 [ALPHA] Update Details:
+
+
+• Fixed some crashes.
+
+• Other minor fixes and optimizations.
+
+
+
+---------
+
+
+
+AeroInsta V18.0.3 [ALPHA] Update Details:
+
+
+• Added message bomber (AeroInsta Settings >> Alpha >> Enable Message Bomber).
+
+• Other minor fixes and optimizations.
+
+
+
+
+××××××××
+[•• COLORS ••]
+- Default (No more color options will be added for Alpha version, use NORMAL version for color options.)
